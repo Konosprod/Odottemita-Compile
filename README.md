@@ -14,3 +14,5 @@ Vous devez placer les répertoires contenant you-get et ffmpeg dans le dépôt e
 * ./you-get/you-get
 
 Sinon, il faut éditer les scripts, afin d'y remplacer le chemin. A l'avenir, ça sera configurable.
+
+Travail visible sur la chaine youtube suivante : [chaine youtube](https://www.youtube.com/@compilation9319)
